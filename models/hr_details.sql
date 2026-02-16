@@ -1,1 +1,0 @@
-select * from DBT_TEST.HR
