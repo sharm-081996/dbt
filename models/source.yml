@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: dbt_test
+    database: dbt
+    schema: dbt_test
+
+    tables:
+      - name: employee
+     

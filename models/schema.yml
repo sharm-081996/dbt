@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: stage_emp
+    columns:
+      - name: emp_name
+        tests:
+        - not_null
+      
